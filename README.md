@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 你好呀！💡
 
-我是 [Hmily](https://github.com/mao2022) ，[一位有轻微强迫症的完美主义者。](https://github.com/mao2022)
+我是 [Hmily](https://github.com/ihmily) ，[一位有轻微强迫症的完美主义者。](https://github.com/ihmily)
 
 热爱折腾 同时在编程的路上越走越远的普通程序员一枚，欢迎关注~
 
