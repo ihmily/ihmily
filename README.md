@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 我是 [Hmily](https://github.com/ihmily) ，[一位有轻微强迫症的完美主义者。](https://github.com/ihmily)
 
-热爱折腾 同时在编程的路上越走越远的普通程序员一枚，欢迎关注~
+热爱折腾 同时在编程的路上越走越远的撸代码爱好者一枚，欢迎关注~
 
 我的代码写的都很垃圾 在这里只是做个记录...
 
@@ -41,8 +41,6 @@ Here are some ideas to get you started:
 - 🤔 My website： [Hmily's blog](https://www.hmily.vip/)
 
 - 📫 My zhihu： [hwj会幸福](https://www.zhihu.com/people/wo-jia-xiao-lai/posts)
-
-- 👯 My qq： 961532186
 
   
 
