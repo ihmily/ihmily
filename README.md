@@ -38,9 +38,7 @@ Here are some ideas to get you started:
 
 ![](https://github.com/ihmily/ihmily/blob/main/images/github-contribution-grid-snake.svg)
 
-- 🤔 My website： [Hmily's blog](https://www.hmily.vip/)
 
-- 📫 My zhihu： [hwj会幸福](https://www.zhihu.com/people/wo-jia-xiao-lai/posts)
 
-  
+
 
