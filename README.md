@@ -26,11 +26,17 @@ Here are some ideas to get you started:
 
 你好呀！💡
 
-我是 [Hmily](https://github.com/ihmily) ，[一位有轻微强迫症的完美主义者。](https://github.com/ihmily)
+我是[Hmily](https://github.com/ihmily)，一位有轻微强迫症的完美主义者。
 
-热爱折腾 同时在编程的路上越走越远的撸代码爱好者一枚，欢迎关注~
+我热爱折腾，同时在编程的路上越走越远，是一位撸代码的爱好者。欢迎关注我的工作！
 
-![亮色](https://raw.githubusercontent.com/ihmily/ihmily/output/github-contribution-grid-snake.svg) 
+你可以在我的[Github仓库]([Your Repositories (github.com)](https://github.com/ihmily?tab=repositories))找到我的项目。
 
-我的代码写的都很垃圾 在这里只是做个记录...
+我知道我的代码写得不够好，但在这里我只是记录自己的学习过程。
+
+希望能够不断进步，提高自己的编程技术。
+
+如果你有任何问题或者想要交流，都可以随时联系我。
+
+![light](https://raw.githubusercontent.com/ihmily/ihmily/output/github-contribution-grid-snake.svg) 
 
