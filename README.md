@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 我热爱折腾，同时在编程的路上越走越远，是一位撸代码的爱好者。欢迎关注我的工作！
 
-你可以在我的[Github仓库]([Your Repositories (github.com)](https://github.com/ihmily?tab=repositories))找到我的项目。
+你可以在我的[Github仓库](https://github.com/ihmily?tab=repositories)找到我的项目。
 
 我知道我的代码写得不够好，但在这里我只是记录自己的学习过程。
 
