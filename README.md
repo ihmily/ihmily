@@ -30,9 +30,7 @@ Here are some ideas to get you started:
 
 热爱折腾 同时在编程的路上越走越远的撸代码爱好者一枚，欢迎关注~
 
-我的代码写的都很垃圾 在这里只是做个记录...
-
 ![亮色](https://raw.githubusercontent.com/ihmily/ihmily/output/github-contribution-grid-snake.svg) 
 
-
+我的代码写的都很垃圾 在这里只是做个记录...
 
