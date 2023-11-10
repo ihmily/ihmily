@@ -32,13 +32,7 @@ Here are some ideas to get you started:
 
 我的代码写的都很垃圾 在这里只是做个记录...
 
-平时的爱好：原来一直有坚持健身，锻炼好几年了，但因为某些原因没能坚持到现在，希望能重新拾起曾经的追求。
-
-如果你也健身的话，可以一起交流交流~
-
-![](https://github.com/ihmily/ihmily/blob/main/images/github-contribution-grid-snake.svg)
-
-
+![亮色](https://raw.githubusercontent.com/ihmily/ihmily/output/github-contribution-grid-snake.svg) 
 
 
 
